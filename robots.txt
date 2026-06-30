@@ -4,4 +4,4 @@ Disallow: /login
 Disallow: /dashboard
 Disallow: /admin
 
-Sitemap: https://clean-lps.github.io/dnielpy-univista-deploy/sitemap.xml
+Sitemap: https://insuranceunivistaus.com/sitemap.xml
