@@ -4,4 +4,4 @@ Disallow: /login
 Disallow: /dashboard
 Disallow: /admin
 
-Sitemap: https://insuranceunivistaus.com/sitemap.xml
+Sitemap: https://miamijoyeria.com/sitemap.xml
